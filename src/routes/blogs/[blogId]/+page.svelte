@@ -46,11 +46,11 @@ h3 {
                 </h1>
 
                 {#if data?.blog.title == "Ein ultimativer Schicksalsschlag"}
-                <div class="py-12">
+                <div class="py-12 text-justify">
                     {@html data?.blog.content}
                 </div>
-                {/if}
-                <div class="flex flex-col w-full h-full gap-6 py-10">
+                {:else }
+                <div class="flex flex-col w-full h-full gap-6 py-10 text-justify">
                     <p>Wir alle werden manchmal von unseren Emotionen überwältigt. Aber wenn wir gefragt werden „Wie fühlst du dich?“ können wir nicht richtig antworten. Leider scheinen manche Gefühlssituationen einfach nicht in Worte fassbar. Gibt es überhaupt eine Möglichkeit, unsere eigenen schwierigen Gefühle mit treffenden Worten auszudrücken?
                         <br><br>
                         Bevor Sie weiterlesen, ermutige ich Sie herzlich und inständig die Interpretation von Josh Daniels von dem Lied „Jealous“ zu hören. Über diesen Link gelangen Sie zu der <a href="https://www.youtube.com/watch?v=Ra_iiSIn4OI" class="text-blue-500 hover:text-blue-800"> Youtube-Version</a>.</p>
@@ -95,6 +95,8 @@ h3 {
                     
                     
                     </div>
+                {/if}
+                
 
 
             </div>
