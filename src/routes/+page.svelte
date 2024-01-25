@@ -73,7 +73,7 @@
                 </h2>
     
                 <p class="justify-center text-center py-2 font-extralight">
-                    Willkommen bei Weisheit für jeden. Auf diesem Blog sind Sie herzlich eingeladen, kurze oder etwas längere Andachten zu verschiedensten Themen rund um Weisheit, Lebenserfahrung, Philosophie und vieles Weitere zu lesen und sich diesbezüglich kriDsch zu äußern. Warum Weisheit für Jeden? Weisheit ist ein komplexer Begriff, den man weder leicht definieren noch unkompliziert erhalten kann. Aber, mit etwas Weisheit findet man meistens etwas leichter durch die Herausforderungen, EnMäuschungen und Prüfungen des Lebens zurecht. Lasst uns deswegen gemeinsam das Chaos des Lebens entknoten und einander helfen, ein wenig weisere Menschen zu werden.
+                    Willkommen bei Weisheit für jeden. Auf diesem Blog sind Sie herzlich eingeladen, kurze oder etwas längere Andachten zu verschiedensten Themen rund um Weisheit, Lebenserfahrung, Philosophie und vieles Weitere zu lesen und sich diesbezüglich kriDsch zu äußern. Warum Weisheit für Jeden? Weisheit ist ein komplexer Begriff, den man weder leicht definieren noch unkompliziert erhalten kann. Aber, mit etwas Weisheit findet man meistens etwas leichter durch die Herausforderungen, Enttäuschungen und Prüfungen des Lebens zurecht. Lasst uns deswegen gemeinsam das Chaos des Lebens entknoten und einander helfen, ein wenig weisere Menschen zu werden.
                 </p>
     
                 <a href="/blogs" class="w-full items-center justify-center flex py-4">
@@ -140,7 +140,7 @@
                 Für die Leser
             </h3>
             <p class="py-4 font-light">
-                Sie sind herzlich zu Weisheit für jeden eingeladen. Hier finden Sie ein paar kriDsche Andachten zu unterschiedlichsten Themen die zum Nachdenken anregen sollen. Ganz besonders lade ich Sie im Folgenden ein, Ihre einzigarDgen Meinungen mit der Community zu teilen.
+                Sie sind herzlich zu Weisheit für jeden eingeladen. Hier finden Sie ein paar kritische Andachten zu unterschiedlichsten Themen die zum Nachdenken anregen sollen. Ganz besonders lade ich Sie im Folgenden ein, Ihre einzigartigen Meinungen mit der Community zu teilen.
                <br>
                 Viel Spaß!
             </p>

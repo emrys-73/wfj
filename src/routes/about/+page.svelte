@@ -13,7 +13,7 @@
                 </h1>
     
                 <p class="justify-center text-center py-2 font-extralight">
-                    Hallo, ich bin Noah und willkommen zu Weisheit für jeden. Das Leben läuR oR ganz anders ab, als wir es erwarten. Manchmal zwingt es uns wortwörtlich in die Knie. Und doch ist das Leben das schönste und wertvollste Geschenk GoMes. Ich bin fest davon überzeugt, dass mit etwas Geduld, der richDgen Einstellung und ein wenig Weisheit jeder, der in die Knie gezwungen wurde, wieder aufstehen und das Leben in vollen Zügen erfahren kann. Hier, bei Weisheit für jeden, lade ich Sie herzlich ein, an ein paar kriDschen Gedanken zum Leben teilzunehmen und gleichzeiDg Ihre Sichtweisen und Erfahrungen zu teilen. Viel Spaß beim Lesen!
+                    Hallo, ich bin Noah und willkommen zu Weisheit für jeden. Das Leben läuft nur ganz anders ab, als wir es erwarten. Manchmal zwingt es uns wortwörtlich in die Knie. Und doch ist das Leben das schönste und wertvollste Geschenk Gottes. Ich bin fest davon überzeugt, dass mit etwas Geduld, der richtigen Einstellung und ein wenig Weisheit jeder, der in die Knie gezwungen wurde, wieder aufstehen und das Leben in vollen Zügen erfahren kann. Hier, bei Weisheit für jeden, lade ich Sie herzlich ein, an ein paar kritischen Gedanken zum Leben teilzunehmen und gleichzeitig Ihre Sichtweisen und Erfahrungen zu teilen. Viel Spaß beim Lesen!
 
                 </p>
             </div>
