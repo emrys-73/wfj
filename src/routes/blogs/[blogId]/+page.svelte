@@ -41,6 +41,25 @@ h3 {
     <div class="w-full justify-center flex items-center flex-col h-full py-10 pt-20">
         <div class="w-full px-10 md:px-0 md:w-3/5 h-full py-2">
             <div class="md:px-20 lg:px-32 py-10">
+                {#if data?.blog.title == "Ein ultimativer Schicksalsschlag"}
+                <div class="py-6 flex justify-between h-full flex-row text-sm font-light">
+                    <div>
+                        08.12.2023
+                    </div>
+                    <div>
+                        2 Min
+                    </div>
+                </div>
+                {:else }
+                <div class="py-6 flex justify-between h-full flex-row text-sm font-light">
+                    <div>
+                        21.01.2024
+                    </div>
+                    <div>
+                        3 Min
+                    </div>
+                </div>
+                {/if}
                 <h1 class="text-5xl text-center items-center justify-center font-sans font-light tracking-wide py-10">
                     {data?.blog.title}
                 </h1>
