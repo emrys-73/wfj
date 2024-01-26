@@ -57,7 +57,7 @@
 		<section class="w-full h-28 fixed top-0 backdrop-blur-xl altashadow flex flex-col items-center justify-center">
 			<div class="w-full text-center justify-center items-center">
 				<h2 class="text-4xl font-serif font-semibold py-2">
-					Weißheit für jeden
+					Weisheit für jeden
 				</h2>
 			</div>
 			<div class="flex flex-row gap-6 justify-center items-center">
